@@ -2,10 +2,7 @@
 
 A React-based web application for tracking and managing mountain peaks.
 
-<div style="text-align: center;">
-  <img src="images/app-screenshot.png" alt="App Interface" width="600"/>
-  <p><em>Fig. 1 - Mountain App homepage</em></p>
-</div>
+<img src="images/app-screenshot.png" alt="App Interface" width="600"/>
 
 ## Features
 
